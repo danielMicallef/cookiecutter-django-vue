@@ -1,3 +1,11 @@
+TODO:
+- Change to Django 4 and update requirements
+- Update Dockerfiles to use latest Python
+- Use Poetry
+- Segregate Docker into its own Dockerfile
+- Optionally use traefikV2
+- Pytest, including Black, iSort and Flake8 OOTB, including hooks
+
 <a href="https://travis-ci.org/vchaptsev/cookiecutter-django-vue">
   <img src="https://travis-ci.org/vchaptsev/cookiecutter-django-vue.svg?branch=master" />
 </a>
